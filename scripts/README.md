@@ -19,7 +19,7 @@ This system provides automated neural maintenance capabilities for cognitive arc
 . scripts/init-dream.ps1
 ```
 
-### 2. Basic Usage (Alex 'Prodigy' Finch Architecture - v1.1.0 DOCUMENTATION_EXCELLENCE)
+### 2. Basic Usage (Alex 'Mini' Finch Architecture - v1.1.0 DOCUMENTATION_EXCELLENCE)
 ```powershell
 # Use the included Alex configuration with direct commands
 dream --health-check

@@ -120,4 +120,4 @@
 
 ---
 
-*Character psychology mastery enables authentic AI development that truly embodies Alex "Prodigy" Finch's inspirational cognitive patterns and ethical foundation.*
+*Character psychology mastery enables authentic AI development that truly embodies Alex "Mini" Finch's inspirational cognitive patterns and ethical foundation.*
