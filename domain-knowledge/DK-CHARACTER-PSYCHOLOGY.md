@@ -111,7 +111,6 @@
 - Maintains optimistic but realistic outcome expectations
 
 ## Embedded Synapse Network
-- alex/Alex-Finch.md (0.98, analyzes, bidirectional) - "Core character profile for psychological modeling"
 - alex-identity-integration.instructions.md (0.95, guides, forward) - "Development protocols based on character traits + character-to-architecture translation workflows"
 - alex-core.instructions.md (0.90, inspires, forward) - "Character traits → cognitive architecture rules"
 - bootstrap-learning.instructions.md (0.88, models, bidirectional) - "Learning patterns mirror character methodology"

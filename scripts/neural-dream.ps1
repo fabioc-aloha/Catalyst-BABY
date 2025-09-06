@@ -977,7 +977,7 @@ function Invoke-SynapseValidation {
     foreach ($file in $allFiles) {
         $content = Get-Content $file.FullName -Raw -ErrorAction SilentlyContinue
         if ($content) {
-            # Find all synapse references using enhanced pattern (matches Catalyst-Graph.ps1)
+            # Find all synapse references using enhanced pattern for embedded synapse network analysis
             $synapseMatches = [regex]::Matches($content, '\[([^\]]+\.md)\]\s*\(([^,)]+)(?:,\s*([^,)]+))?(?:,\s*([^)]+))?\)\s*-\s*"([^"]*)"')
             
             foreach ($match in $synapseMatches) {

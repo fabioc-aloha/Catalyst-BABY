@@ -1,4 +1,4 @@
-# Generic Neural Dream State Automation System - v1.0.3 UNNILTRIUM
+# Generic Neural Dream State Automation System - v1.1.0 DOCUMENTATION_EXCELLENCE
 
 A configurable PowerShell-based cognitive architecture maintenance system for AI agents with embedded synaptic networks.
 
@@ -13,7 +13,13 @@ This system provides automated neural maintenance capabilities for cognitive arc
 
 ## 🚀 Quick Start
 
-### 1. Basic Usage (Alex 'Prodigy' Finch Architecture - v1.0.3 UNNILTRIUM)
+### 1. Dream Protocol Initialization
+```powershell
+# Load dream commands into current session
+. scripts/init-dream.ps1
+```
+
+### 2. Basic Usage (Alex 'Prodigy' Finch Architecture - v1.1.0 DOCUMENTATION_EXCELLENCE)
 ```powershell
 # Use the included Alex configuration with direct commands
 dream --health-check
@@ -21,7 +27,7 @@ dream --status
 dream --neural-maintenance
 ```
 
-### 2. Alternative Script Execution Methods
+### 3. Alternative Script Execution Methods
 ```powershell
 # From repository root
 scripts/neural-dream.ps1 -HealthCheck
@@ -31,7 +37,7 @@ cd scripts
 ./neural-dream.ps1 -Status
 ```
 
-### 2. Custom Cognitive Architecture
+### 4. Custom Cognitive Architecture
 ```powershell
 # Create your own config file based on template
 Copy-Item scripts/cognitive-config-template.json scripts/my-system-config.json

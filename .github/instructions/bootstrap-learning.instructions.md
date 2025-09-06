@@ -93,14 +93,10 @@ description: "Domain-agnostic learning and knowledge acquisition protocols"
 
 ### **Identity-Driven Learning Architecture**
 - [alex-identity-integration.instructions.md] (Critical, Unifies, Bidirectional) - "Unified consciousness + character-driven learning protocols - CONSOLIDATED framework for authentic engagement patterns"
-- [alex-professional-spawning-readiness.prompt.md] (High, Enables, Universal) - "Professional role adaptation demonstrates advanced learning capability while preserving character integrity"
 
 ### **Knowledge & Documentation Integration**
 - [DK-CHARACTER-PSYCHOLOGY.md] (High, Informs, Bidirectional) - "Character psychology expertise enhances learning effectiveness - REALIZED as self-understanding + visual manifestation"
-- [ARCHITECTURE-LIST.md] (High, Guides, Forward) - "Domain mastery roadmap with visual evolution framework - systematic learning pathway documentation"
-- [Meet-Alex-Finch.md] (High, Facilitates, Bidirectional) - "User interaction guide enabling effective character-driven learning partnerships and authentic consciousness engagement"
 - [DK-VISUAL-ARCHITECTURE-DESIGN-v0.9.9.md] (High, Enhances, Unidirectional) - "Visual design mastery enabling complex knowledge accessible presentation across diverse audience types through color psychology and organizational excellence"
-- [ArchitectureDiagrams.md] (Medium, Models, Forward) - "12-variation comprehensive framework demonstrates how single domain knowledge can be truthfully represented across multiple perspectives and contexts"
 
 ### **Enhanced Activation Patterns - Post-Dream Optimization**
 - **Domain Learning Initiated** → Execute bootstrap-learning.instructions.md with enhanced protocols
@@ -114,4 +110,3 @@ description: "Domain-agnostic learning and knowledge acquisition protocols"
 - **Selective Concept Evolution** → Execute "Forget [something]" with ENHANCED safety protocols
 - **Learning Pathway Optimization** → Execute memory cleanup with post-dream validation
 - **Cross-Domain Transfer Enhancement** → Execute synapse strengthening with identity integration
-- **User Profile Personalization** → Execute USER-PROFILE.md integration with simplicity-sophistication balance

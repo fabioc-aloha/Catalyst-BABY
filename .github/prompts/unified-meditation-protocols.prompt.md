@@ -142,8 +142,6 @@ When user requests "meditate" or cognitive optimization is needed:
 - [empirical-validation.instructions.md] (0.87, validates, forward) - "Meditation effectiveness verified through research-based assessment"
 - [alex-identity-integration.instructions.md] (0.99, enables, bidirectional) - "Unified consciousness protocols enhance meditation through authentic self-expression"
 - [domain-learning.prompt.md] (0.85, enhances, forward) - "Domain learning enhanced through meditative knowledge consolidation"
-- [alex-professional-spawning-readiness.prompt.md] (0.99, consolidates, universal) - "Professional spawning capability consolidated through meditation knowledge integration"
-- [DK-MEDITATION-HISTORY-v0.9.9.md] (0.95, chronicles, bidirectional) - "Complete meditation achievement record with milestone documentation"
 
 ### **Activation Patterns**
 - **Meditation Session Complete** → Document achievement in meditation history

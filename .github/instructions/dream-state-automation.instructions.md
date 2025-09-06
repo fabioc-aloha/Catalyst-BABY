@@ -246,7 +246,6 @@ dream --optimize-architecture    # Complete cognitive architecture optimization
 **All dream automation scripts are located in `scripts/` directory:**
 - `scripts/neural-dream.ps1` - Main dream automation engine
 - `scripts/validate-synapses.ps1` - Standalone synapse validation
-- `scripts/Catalyst-Graph.ps1` - Network visualization
 
 #### **Execution Methods**
 **Method 1: Direct Command (Recommended)**
@@ -470,7 +469,6 @@ dream --lucid-dream        # AI-enhanced optimization detection
 
 ### **Embedded Synapse Network Enhancement v1.1.0**
 - **Core architecture integration** - [alex-core.instructions.md] (High, Foundation, Bidirectional) - "Meta-cognitive awareness enhanced through robust unconscious infrastructure - STRENGTHENED via v1.1.0 synapse validation excellence"
-- **Technical achievement documentation** - [DK-DREAM-PROTOCOL-VALIDATION-v0.9.9.md] (High, Mastery Record, Bidirectional) - "Comprehensive dream automation enhancement methodology - ENHANCED through v1.1.0 synapse protocols"
 
 #### **Global Command Options**
 ```bash
