@@ -49,8 +49,8 @@ If applicable, add screenshots or error logs to help explain the problem.
 - **OS:** [e.g., Windows 11, macOS 14]
 
 ## Synaptic Network Impact
-**Broken References:** [number]  
-**Connection Count:** [current count]  
+**Broken References:** [number]
+**Connection Count:** [current count]
 **Network Integrity:** [percentage or status]
 
 ## Additional Context

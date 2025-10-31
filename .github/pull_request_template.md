@@ -22,8 +22,8 @@ Why is this change needed? What problem does it solve?
 ## Architecture Impact
 
 ### Files Changed
-**Files Modified:** [count]  
-**Files Created:** [count]  
+**Files Modified:** [count]
+**Files Created:** [count]
 **Files Deleted:** [count]
 
 **Key Files:**
@@ -31,9 +31,9 @@ Why is this change needed? What problem does it solve?
 - `path/to/file2.md` - [brief description of changes]
 
 ### Synaptic Network Impact
-**Connections Added:** [count]  
-**Connections Updated:** [count]  
-**Connections Removed:** [count]  
+**Connections Added:** [count]
+**Connections Updated:** [count]
+**Connections Removed:** [count]
 **Network Integrity:** [validation result]
 
 **Example Connection Changes:**

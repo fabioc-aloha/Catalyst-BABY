@@ -10,7 +10,7 @@ assignees: ''
 A clear and concise description of the feature or enhancement you'd like to see.
 
 ## Problem Statement
-Describe the problem or limitation this feature would address.  
+Describe the problem or limitation this feature would address.
 **Example:** "Currently, there's no way to [do X], which makes [Y] difficult..."
 
 ## Proposed Solution
@@ -51,9 +51,9 @@ Describe specific scenarios where this feature would be valuable:
 Describe alternative solutions or features you've considered.
 
 ## Implementation Considerations
-**Complexity:** [Low / Medium / High]  
-**Breaking Changes:** [Yes / No]  
-**Version Impact:** [Patch / Minor / Major]  
+**Complexity:** [Low / Medium / High]
+**Breaking Changes:** [Yes / No]
+**Version Impact:** [Patch / Minor / Major]
 
 **Technical Requirements:**
 - PowerShell compatibility: _____
